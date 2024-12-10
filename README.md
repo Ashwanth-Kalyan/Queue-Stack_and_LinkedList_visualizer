@@ -1,2 +1,1 @@
-# Queue-Stack_and_LinkedList_visualizer
-A queue, linked list and Stack visualizer I made using Python and Tkinter
+Introducing an engaging visualizer for queues, linked lists, and stacks, developed with Python and Tkinter. This tool enhances your understanding of essential data structures, making learning both interactive and enjoyable.`
